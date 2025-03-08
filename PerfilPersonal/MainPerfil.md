@@ -5,7 +5,7 @@
     </style>
 
 ## Hola soy Rubén 👋
-![Imagen montañas1!](C:\Users\usuario\OneDrive\Escritorio\DAM\A_Entornos de desarrollo\PerfilPersonal\Fotos perfil\per2.png "Montañas")
+![Imagen montañas1!](\Fotos perfil\per2.png "Montañas")
 
 ---
 
